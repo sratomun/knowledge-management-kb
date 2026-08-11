@@ -12,6 +12,9 @@ An LLM-wiki over the reference corpus: 109 sources, 171 concepts, and the named 
 ## Domains
 [[semantic-web]] · [[obda]] · [[knowledge-organization]] · [[metadata]] · [[ontology-engineering]] · [[semantic-layer]] · [[data-architecture]] · [[enterprise-architecture]] · [[semantic-wiki]] · [[knowledge-management]] · [[graph-rag]] · [[ai-governance]] · [[hr-standards]] · [[doc-processing]] · [[knowledge-processing]] · [[benchmarking]]
 
+## Visual maps
+[[prov-o-graph]] — PROV-O rendered as diagrams, by term category
+
 ## Organizations & people
 [[org-apqc]] · [[org-atticus-project]] · [[org-aws]] · [[org-consortium-service-innovation]] · [[org-cube-dev]] · [[org-dama]] · [[org-dbt-labs]] · [[org-dcmi]] · [[org-dcmi-usage-board]] · [[org-dxwg]] · [[org-edm-council]] · [[org-eu-commission]] · [[org-go-fair]] · [[org-google-cloud]] · [[org-hr-open]] · [[org-ibm]] · [[org-idlab-ghent]] · [[org-iec]] · [[org-ijcai]] · [[org-iso]] · [[org-iso-tc260]] · [[org-jsonld-wg]] · [[org-jtc1-sc32]] · [[org-kgc-cg]] · [[org-liber-ai]] · [[org-microsoft]] · [[org-neo4j]] · [[org-nist]] · [[org-oasis]] · [[org-ontopic]] · [[org-open-group]] · [[org-openfisca]] · [[org-oreilly]] · [[org-prov-wg]] · [[org-publications-office-eu]] · [[org-rdf-wg]] · [[org-semantic-arts]] · [[org-smw-project]] · [[org-snowflake]] · [[org-swd-wg]] · [[org-technics]] · [[org-thoughtworks]] · [[org-unstructured]] · [[org-us-dol]] · [[org-w3c]] · [[org-wikimedia-de]] · [[person-dehghani]] · [[person-karpathy]]
 
