@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "[tags: \"knowledge-organization\"",
+      "query": "[tags: \"knowledge-organization\"]",
       "color": {
         "a": 1,
         "rgb": 6084188
