@@ -1,0 +1,17 @@
+# Agent operating model — kept local
+CLAUDE.md
+
+# Staged for removal
+_to_delete/
+
+# Build output
+_build/
+
+# Raw ingested source material (large / third-party)
+sources/_raw/
+
+# Obsidian transient UI state (open panes, scroll position)
+.obsidian/workspace.json
+
+# OS cruft
+.DS_Store
